@@ -23,7 +23,7 @@
 
 - Architecture
     
-    ![Untitled](ESL_HomeWo%2071486/Untitled.png)
+    ![Untitled](https://raw.githubusercontent.com/nthu110061637/ESL_HomeWork2/main/Architecture.jpg)
     
 - main.cpp
     - Instantiate a bus with one target socket and one initiator socket.
@@ -322,8 +322,8 @@
 
 - Before
     
-    ![Untitled](ESL_HomeWo%2071486/Untitled.bmp)
+    ![Untitled](https://github.com/nthu110061637/ESL_HomeWork1/blob/main/hw1_2/build/originrb.bmp)
     
 - After
     
-    ![Untitled](ESL_HomeWo%2071486/Untitled%201.bmp)
+    ![Untitled](https://raw.githubusercontent.com/nthu110061637/ESL_HomeWork2/main/hw2/build/out.bmp)
