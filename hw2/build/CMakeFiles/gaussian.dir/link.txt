@@ -1,0 +1,1 @@
+/usr/bin/c++   -O3 -Wall -pedantic -D CLOCK_PERIOD=1.0  -rdynamic CMakeFiles/gaussian.dir/GaussianFilter.cpp.o CMakeFiles/gaussian.dir/Initiator.cpp.o CMakeFiles/gaussian.dir/Testbench.cpp.o CMakeFiles/gaussian.dir/main.cpp.o CMakeFiles/gaussian.dir/tlm_log.cpp.o  -o gaussian  -Wl,-rpath,/opt/systemc/lib /opt/systemc/lib/libsystemc.so.2.3.3 -pthread 
